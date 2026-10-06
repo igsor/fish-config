@@ -6,6 +6,7 @@
 source /usr/share/garuda/garuda-fish-config/config.fish # Do not edit this defaults file!
 
 # -- Insert customizations below this line! --
+alias ls 'eza --group-directories-first'
 
 
 # Keep this at the bottom of the file.
