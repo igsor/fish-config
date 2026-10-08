@@ -9,6 +9,8 @@ source /usr/share/garuda/garuda-fish-config/config.fish # Do not edit this defau
 alias ls 'eza --group-directories-first'
 alias less 'less -Si'
 
+export STARSHIP_CONFIG=$HOME/.config/starship/starship.toml
+
 
 # Keep this at the bottom of the file.
 # This shows the "neofetch"/fastfetch output when you open a new terminal.
