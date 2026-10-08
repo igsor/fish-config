@@ -7,6 +7,7 @@ source /usr/share/garuda/garuda-fish-config/config.fish # Do not edit this defau
 
 # -- Insert customizations below this line! --
 alias ls 'eza --group-directories-first'
+alias less 'less -Si'
 
 
 # Keep this at the bottom of the file.
