@@ -15,4 +15,4 @@ export STARSHIP_CONFIG=$HOME/.config/starship/starship.toml
 # Keep this at the bottom of the file.
 # This shows the "neofetch"/fastfetch output when you open a new terminal.
 # If you don't want to see it, simply comment out the line below.
-__garuda_fastfetch
+# __garuda_fastfetch
